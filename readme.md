@@ -10,7 +10,7 @@ An end-to-end data science project that analyzes urban e-scooter trip data to fo
 
 ### 🚀 Live Demo
 
-**[Access the interactive dashboard here!](https://YOUR_STREAMLIT_APP_URL_HERE)**
+**[Access the interactive dashboard here!](https://hardik-kaushik-scooter-analytics-project-app-lwrrw9.streamlit.app/)**
 
 ---
 
@@ -46,6 +46,14 @@ This project is deployed as a multi-page Streamlit application with three core m
 * **Version Control & Deployment:** Git, GitHub, Streamlit Community Cloud
 
 ---
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 ### 📂 Project Structure
 ```

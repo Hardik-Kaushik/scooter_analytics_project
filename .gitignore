@@ -46,3 +46,13 @@ output/*
 # Ignore files automatically created by macOS and Windows.
 .DS_Store
 Thumbs.db
+
+# Ignore the contents of the output folder, except for essential app files.
+output/*
+!output/README.md
+!output/demand_forecast_model.pkl
+!output/model_columns.pkl
+!output/station_coordinates.csv
+!output/duration_model.pkl
+!output/duration_model_columns.pkl
+!output/simulation_data.csv
